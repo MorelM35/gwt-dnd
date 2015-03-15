@@ -38,4 +38,4 @@ Build artifacts are now made available from:
     * [gwt-dnd-2.0.2.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.2.jar) / [gwt-dnd-2.0.2-javadoc.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.2-javadoc.jar)
     * [gwt-dnd-2.0.1.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.1.jar) / [gwt-dnd-2.0.1-javadoc.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.1-javadoc.jar)
     * [gwt-dnd-2.0.0.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.0.jar) / [gwt-dnd-2.0.0-javadoc.jar](https://gwt-dnd.storage.googleapis.com/gwt-dnd-2.0.0-javadoc.jar)
-# (Downloads prior to 3.3.1 are also available from the [old downloads page](https://code.google.com/p/gwt-dnd/downloads/list))
+    * [Even older downloads](https://gwt-dnd.storage.googleapis.com/)
