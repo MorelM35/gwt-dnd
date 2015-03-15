@@ -206,7 +206,7 @@ If you begin your drag operation and you find that the draggable widget jumps on
   * [GWT Issue 871](http://code.google.com/p/google-web-toolkit/issues/detail?id=871) IE getAbsoluteLeft/Top() wrong when BODY has borders
 
 ## Major Issues to Consider for GWT 1.3.3 (Mac/Safari) ##
-  * [GWT Issue 724](http://code.google.com/p/google-web-toolkit/issues/detail?id=724) Safari getAbsoluteLeft() / getAbsoluteTop() return NaN for detached or hidden elements, which causes [gwt-dnd Issue #1](http://code.google.com/p/gwt-dnd/issues/detail?id=1) Drag and Drop does not work on Safari. Use the [gwt-dragdrop-patches-*.jar](https://github.com/fredsa/gwt-dnd/blob/wiki/Downloads.md) for an patched version of `DOMImplSafari`.
+  * [GWT Issue 724](http://code.google.com/p/google-web-toolkit/issues/detail?id=724) Safari getAbsoluteLeft() / getAbsoluteTop() return NaN for detached or hidden elements, which causes [issue #1](https://github.com/fredsa/gwt-dnd/issues/1) Drag and Drop does not work on Safari. Use the [gwt-dragdrop-patches-*.jar](https://github.com/fredsa/gwt-dnd/blob/wiki/Downloads.md) for an patched version of `DOMImplSafari`.
 
 
 

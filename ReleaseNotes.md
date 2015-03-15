@@ -181,7 +181,7 @@
   * **Bug Fixes**
     * Fix for [issue 65](https://github.com/fredsa/gwt-dnd/issues/65) (dragStartSensitivity > 0 causes draggable droptargets to "fuse" together). Thanks hansson!
     * Fix for [issue 59](https://github.com/fredsa/gwt-dnd/issues/59) (`MouseDragHandler`: Incorrect mouse position in context, when dragStartSensitivity > 0). Thanks mark.renouf!
-    * Fix for [issue 56](https://github.com/fredsa/gwt-dnd/issues/56) (Able to drag widgets onto portion of drop target that is outside of `ScrollPanel`'s viewport), which is a regression of [issue 24](https://github.com/fredsa/gwt-dnd/issues/24) (multiple draggables inside scroll panels overlap). Thanks jeremiah.boyle! [Issue 24](https://github.com/fredsa/gwt-dnd/issues/24) wasn't fixed properly and was thus eventually reverted in [r744](https://code.google.com/p/gwt-dnd/source/detail?r=744) and [r828](https://code.google.com/p/gwt-dnd/source/detail?r=828) because of an issue identified by markwmccall.
+    * Fix for [issue 56](https://github.com/fredsa/gwt-dnd/issues/56) (Able to drag widgets onto portion of drop target that is outside of `ScrollPanel`'s viewport), which is a regression of [issue 24](https://github.com/fredsa/gwt-dnd/issues/24) (multiple draggables inside scroll panels overlap). Thanks jeremiah.boyle! [Issue 24](https://github.com/fredsa/gwt-dnd/issues/24) wasn't fixed properly and was thus eventually reverted in r744 and r828 because of an issue identified by markwmccall.
     * Fix for [issue 71](https://github.com/fredsa/gwt-dnd/issues/71) - scrolling of boundary panel causes widget drag position to be off by scrolled amount. Thanks Fabrice!
 
 
