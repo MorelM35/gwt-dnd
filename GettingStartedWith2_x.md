@@ -2,15 +2,7 @@
 ---
 
 
-
----
-
-
-### This wiki has moved to the [GettingStarted wiki](http://code.google.com/p/gwt-dnd/wiki/GettingStarted). ###
-
-
----
-
+### This wiki has moved to the [GettingStarted wiki](https://github.com/fredsa/gwt-dnd/blob/wiki/GettingStarted.md). ###
 
 
 ---
