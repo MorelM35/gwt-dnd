@@ -1,13 +1,13 @@
 # Prerequisites #
-  1. Get the latest [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/) release supported by the [Google Plugin for Eclipse](http://code.google.com/eclipse).
-  1. Install the [Google Plugin for Eclipse](http://code.google.com/eclipse)
-  1. Use the Google Plugin for Eclipse to download the GWT SDK for you by following the appropriate [instructions](http://code.google.com/eclipse/docs/getting_started.html).
+  1. Get the latest [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/) release supported by the [Google Plugin for Eclipse](https://developers.google.com/eclipse).
+  1. Install the [Google Plugin for Eclipse](https://developers.google.com/eclipse)
+  1. Use the Google Plugin for Eclipse to download the GWT SDK for you by following the appropriate [instructions](https://developers.google.com/eclipse/docs/getting_started.html).
   1. Install [EGit](http://www.eclipse.org/egit/download/) for Eclipse
 
 # Checking out gwt-dnd using EGit #
   1. Checkout the code
     1. **File > Import > Git > Projects from Git > Clone...**
-    1. Set the URI to `https://code.google.com/p/gwt-dnd/` which will give you the source code for the gwt-dnd library, the source code for the demo (examples), the getting-started launch configuration and the Eclipse project. Click **Next**.
+    1. Set the URI to `https://github.com/fredsa/gwt-dnd` which will give you the source code for the gwt-dnd library, the source code for the demo (examples), the getting-started launch configuration and the Eclipse project. Click **Next**.
     1. Specify the `master` branch. Click **Next**.
     1. Optionally, consider setting the **Directory** to `/path/to/your/workspace/gwt-dnd`, so that your imported project working tree is checked out inside the git clone.
     1. Click **Finish**. Then select the `gwt-dnd` clone you just created. Click **Next**.
@@ -26,8 +26,8 @@
 |:---------------|:----------------|
 | `src/`       | Library source code. |
 | `demo/`      | [Drag and drop demo](https://gwt-dnd.appspot.com/). |
-| `getting-started/`   | The sample application from the [GettingStarted wiki](http://code.google.com/p/gwt-dnd/wiki/GettingStarted). |
+| `getting-started/`   | The sample application from the [GettingStarted wiki](https://github.com/fredsa/gwt-dnd/blob/wiki/GettingStarted.md). |
 | `test/`      | Skeleton launch configuration for quick testing. |
 | `build/`     | ant build output |
-| `war/`       | Web resrouces |
+| `war/`       | Web resources |
 | `eclipse/`   | Eclipse based resources |
